@@ -1,0 +1,4 @@
+config_data = {
+  'noOfFloors': 10,
+  'noOfElevators':4
+}
