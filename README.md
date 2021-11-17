@@ -11,6 +11,4 @@ written in C# .net core.
 use DAL (loading from any database, including json file - I had no sql installed ...)
 use dependency injection + controllers.
 
-You can test me for C#, angular, javascript ...
-
 Thanks.
