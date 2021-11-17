@@ -1,4 +1,4 @@
-# trust_partners
+# Trust partners - code sample.
 
 elevetor
 --------
